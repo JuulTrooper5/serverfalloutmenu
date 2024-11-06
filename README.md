@@ -1,5 +1,5 @@
 # falloutmenu
-Simple drag and drop in resources or if you want to use it with an executor, then just use the LUA
+Simply drag and drop in resources or if you want to use it with an executor, then just use the LUA
 
 
 ![screenshot1](https://github.com/Flateric5/SERVERSIDE-falloutmenu/assets/96961227/02d60ff4-d49c-4010-a473-09d6d651a94c)
