@@ -1,6 +1,5 @@
-# SERVERSIDE-falloutmenu
-Server sided falloutmenu mod/cheat for FiveM, to test your anticheat without getting banned because you actually injected mods into the game.
-Simply drag and drop in resources, then TAB to open the menu.
+# falloutmenu
+Simple drag and drop in resources or if you want to use it with an executor, then just use the LUA
 
 
 ![screenshot1](https://github.com/Flateric5/SERVERSIDE-falloutmenu/assets/96961227/02d60ff4-d49c-4010-a473-09d6d651a94c)
